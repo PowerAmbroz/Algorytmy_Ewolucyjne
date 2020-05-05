@@ -1,0 +1,13 @@
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\bin\Debug\netcoreapp3.1\Zad1Gen.exe
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\bin\Debug\netcoreapp3.1\Zad1Gen.deps.json
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\bin\Debug\netcoreapp3.1\Zad1Gen.runtimeconfig.json
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\bin\Debug\netcoreapp3.1\Zad1Gen.runtimeconfig.dev.json
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\bin\Debug\netcoreapp3.1\Zad1Gen.dll
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\bin\Debug\netcoreapp3.1\Zad1Gen.pdb
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\obj\Debug\netcoreapp3.1\Zad1Gen.csprojAssemblyReference.cache
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\obj\Debug\netcoreapp3.1\Zad1Gen.csproj.CoreCompileInputs.cache
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\obj\Debug\netcoreapp3.1\Zad1Gen.AssemblyInfoInputs.cache
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\obj\Debug\netcoreapp3.1\Zad1Gen.AssemblyInfo.cs
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\obj\Debug\netcoreapp3.1\Zad1Gen.dll
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\obj\Debug\netcoreapp3.1\Zad1Gen.pdb
+F:\Uczelnia\Ewolucyjne\pierwszy\Zad1Gen\obj\Debug\netcoreapp3.1\Zad1Gen.genruntimeconfig.cache
