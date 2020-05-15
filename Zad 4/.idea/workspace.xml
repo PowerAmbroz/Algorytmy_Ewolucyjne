@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba80f190-bd1b-4c8e-8c6e-9915644760a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1breNUhatpLKCQqYb7FAMgiLDAs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/8hetmanow.py" />
+  </component>
+  <component name="RunManager" selected="Python.hetman">
+    <configuration name="8hetmanow" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Zad 4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Uczelnia\AlgEvol\Zad 4\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8hetmanow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hetman" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Zad 4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Uczelnia\AlgEvol\Zad 4\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hetman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.hetman" />
+      <item itemvalue="Python.8hetmanow" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba80f190-bd1b-4c8e-8c6e-9915644760a9" name="Default Changelist" comment="" />
+      <created>1589394599992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589394599992</updated>
+      <workItem from="1589394602133" duration="984000" />
+      <workItem from="1589556354492" duration="2224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589395408821">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="414" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1589395408821" />
+    <state x="740" y="315" key="FileChooserDialogImpl" timestamp="1589395401584">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="740" y="315" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1589395401584" />
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom" timestamp="1589558543911">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1589558543911" />
+    <state width="1877" height="245" key="GridCell.Tab.0.center" timestamp="1589558543911">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="245" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1589558543911" />
+    <state width="1877" height="245" key="GridCell.Tab.0.left" timestamp="1589558543910">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="245" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1589558543910" />
+    <state width="1877" height="245" key="GridCell.Tab.0.right" timestamp="1589558543911">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="245" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1589558543911" />
+    <state x="656" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1589556355837">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="656" y="384" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1589556355837" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Zad_4$hetman.coverage" NAME="hetman Coverage Results" MODIFIED="1589558543904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Zad_4$8hetmanow.coverage" NAME="8hetmanow Coverage Results" MODIFIED="1589395423834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
